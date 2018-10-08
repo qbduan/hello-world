@@ -1,6 +1,6 @@
+
 # hello-world
-## hello world
-### hello Friday
+
 
 ## Bayesian framework for ODE parameter estimation
 ### The ODE system 
@@ -12,3 +12,4 @@
 \[f() \]
  Depending on the underlying statistical model the likelihood function can
 become very complex and sometimes might not even be available in closed form. 
+
